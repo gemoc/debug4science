@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Debug4Science (CEA/Inria)
+title: Debug4Science
 email: debug4science@inria.fr
-description: Debug4Science is a research collaboration between Inria/DiverSE and CEA/DAM
+description: Debug4Science is a research collaboration between CEA/DAM and Inria/DiverSE
 baseurl: "/debug4science" # the subpath of your site, e.g. /blog
 url: "https://gemoc.github.io/debug4science" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gemocinitiative
