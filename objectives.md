@@ -5,8 +5,6 @@ permalink: objectives.html
 order: 1
 ---
 
-Debug4Science aims to propose a disciplined approach to define domain-specific debugging facilities for Domain-Specific Languages within the cotext of scientific computing and numerical analysis. 
-
 The project explores the concept of domain-specific events to be defined as properties over the state of a running model, and raising arbitrarily complex behaviors when a property is activated. Possible behaviors include:
 - the definition of breakpoints (i.e. pause the execution), then continuing the execution step-by-step (forward/backward);
 - the execution of domain-specific visualizations tools over the current state, its associated history, or the visited execution path; and

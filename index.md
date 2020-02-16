@@ -3,7 +3,9 @@ layout: default
 order : 0
 ---
 
-TODO
+Debug4Science aims to propose a disciplined approach to develop domain-specific debugging facilities for Domain-Specific Languages within the context of scientific computing and numerical analysis. 
+
+Debug4Science is a bilateral collaboration (2017-2022), between the CEA DAM/DIF et the DiverSE team at Inria.
 
 <center>
 <img src="{{ site.baseurl }}/img/cea.png" alt="CEA" style="width: 100px;"/>
