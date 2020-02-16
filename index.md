@@ -10,5 +10,5 @@ Debug4Science is a bilateral collaboration (2020-2022), between the [CEA](http:/
 <center>
 <img src="{{ site.baseurl }}/img/cea.png" alt="CEA" style="width: 100px;"/>
 &nbsp;&nbsp;&nbsp;
-<img src="{{ site.baseurl }}/img/inria.png" alt="Inria" style="width: 100px;"/>
+<img src="{{ site.baseurl }}/img/inria.png" alt="Inria" style="width: 150px;"/>
 </center>
