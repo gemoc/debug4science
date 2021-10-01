@@ -5,12 +5,12 @@ permalink: publications.html
 order: 3
 ---
 
-**Monilogging for Executable Domain-Specific Languages**
+**Monilogging for Executable Domain-Specific Languages**   
 Dorian Leroy, Benoît Lelandais, Marie-Pierre Oudot, Benoit Combemale
 In *Proceedings of the 13th International Conference on Software Language Engineering* (SLE), 2021.   
 [doi](10.1145/3486608.3486906) [preprint](https://hal.inria.fr/hal-03358061)
 
-**When Scientific Software Meets Software Engineering**
+**When Scientific Software Meets Software Engineering**   
 Dorian Leroy, June Sallou, Johann Bourcier, Benoit Combemale
 Accepted in IEEE Computer.   
 [preprint](https://hal.inria.fr/hal-03318348)
